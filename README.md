@@ -39,10 +39,4 @@ The project follows a well-organized folder structure:
 - **`routes`:** Defines the app's routes and corresponding components.
 - **`server`:** Contains the backend server code, including API endpoints and database connectivity.
 
-## Contributing
 
-Contributions to the Exercise Tracking App are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request. Your contributions will be greatly appreciated.
-
-## License
-
-The Exercise Tracking App is open source and available under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and customize the app according to your needs while complying with the terms of the license.
