@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+img {
+  max-width: 100%;
+}
+a {
+  text-decoration: none;
+}
+hr {
+  color: black;
+  border: 2px solid;
+}
+.sidebar {
+  height: 100vh;
+}
+.nav-item {
+  font-size: 1.5rem;
+}
+.nav-link:hover {
+  background-color: rgb(202, 200, 200);
+}
+
+.card,
+.sidebar {
+  background-color: rgb(217, 217, 217);
+}
+.fa {
+  margin-right: 0.8rem;
+  color: #5c636a;
+}
+
+.btn {
+  padding: 0.3rem 1rem;
+  margin: 0 0.2rem;
+}
+.outline-border {
+  border: 2px solid black;
+  border-radius: 10px;
+}
+/* .sidebar {
+  width: 4.6rem;
+}
+.links_text {
+  display: none;
+} */
+/* for small devices */
+@media (max-width: 576px) {
+  .showcase {
+    display: none !important;
+  }
+}
